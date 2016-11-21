@@ -80,6 +80,7 @@ p {
 /* footer */
 
 footer {
+  margin-top: 45px;
   padding-top: 5px;
   border-top: 1px solid $gray-medium-light;
   color: $gray-light;
@@ -96,8 +97,8 @@ footer {
     float: right;
     list-style: none;
     li {
-      float: right;
-      margin-left: 800px;
+      float: left;
+      margin-left: 15px;
     }
   }
 }
